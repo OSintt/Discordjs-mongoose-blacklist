@@ -1,0 +1,19 @@
+{
+  "name": "rocococ",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "discord.js-plus": "^12.2.11",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.19",
+    "snekfetch": "^4.0.4"
+  }
+}
