@@ -3,9 +3,6 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const db = require('mongoose');
 const Blacklist = require('./schemas.js');
-const snekfetch = require('snekfetch');
-const {Client} = require('discord.js-plus')
-const clientS = new Client();
 const config = require('./config.json');
 
 ////const Blacklist ////
